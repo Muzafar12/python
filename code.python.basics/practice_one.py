@@ -5,6 +5,7 @@ print(temp)
 tempone = [10, 10.4, 'hello', [2, 5, 7]]
 print(tempone)
 print(max(temp))
+print(type(tempone))
 
 list = [10, 5, 4, 10, 33, 101, 4, 10, 3, 6]
 print(list.count(10))
